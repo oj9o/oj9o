@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**oj9o/oj9o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi,👋 my name is Mouza
 
-Here are some ideas to get you started:
+AI & Cybersecurity enthusiast focused on building real-world data-driven systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔐 Projects
+- Smart Data Protection & Risk Analysis System
+- AI Data Analysis Project
+
+## 🚀 Skills
+- Python
+- Data Analysis
+- AI Systems
+- Cybersecurity Concepts
+
+## 📍 Based in UAE 🇦🇪
