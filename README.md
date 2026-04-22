@@ -16,9 +16,11 @@ AI & Cybersecurity focused on building real-world data-driven systems and securi
 
 - [AI-Powered Runway Risk Detection System](https://github.com/oj9o/runway-ai-system)
   - Real-time object detection using YOLOv8
-  - Risk scoring and decision-making layer (LOW / MEDIUM / CRITICAL)
+  - Risk scoring and decision-making system (LOW / MEDIUM / CRITICAL)
   - Detects runway conflicts and uncertain objects
   - Visual heatmap for risk zones
+  - Includes decision intelligence layer for real-world risk simulation
+  - Combines computer vision with decision intelligence for safety-critical environments
     
 - [Smart Data Protection & Risk Analysis System](https://github.com/oj9o/smart-data-protection-risk-analysis-pro)  
   - Built a system to detect suspicious login behavior and reduce security risk exposure  
