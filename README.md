@@ -1,4 +1,5 @@
-# AI & Cybersecurity Engineer | Data-Driven Systems Builder
+AI Systems Builder | Computer Vision & Risk Intelligence | Aviation & Security AI
+🚀 Building real-world AI systems for risk detection and intelligent decision-making
 
 Hi 👋 I'm Mouza AlDarmaki
 
@@ -7,20 +8,31 @@ AI & Cybersecurity focused on building real-world data-driven systems and securi
 📍 Based in UAE 🇦🇪
 
 ## 🧠 What I Do
-I design and build AI-powered cybersecurity systems focused on risk detection, data protection, and real-time decision support in simulated real-world environments.
-
+- Build AI systems that detect and assess real-world risks  
+- Design decision-making layers for AI models  
+- Develop computer vision applications for safety and monitoring  
+- Apply AI in cybersecurity and aviation scenarios  
 ## 🔐 Projects
 
+- [AI-Powered Runway Risk Detection System](https://github.com/oj9o/runway-ai-system)
+  - Real-time object detection using YOLOv8
+  - Risk scoring and decision-making layer (LOW / MEDIUM / CRITICAL)
+  - Detects runway conflicts and uncertain objects
+  - Visual heatmap for risk zones
+    
 - [Smart Data Protection & Risk Analysis System](https://github.com/oj9o/smart-data-protection-risk-analysis-pro)  
-  - Detects suspicious login behavior, reduces security risk exposure, and enables faster incident response through real-time alerting  
+  - Built a system to detect suspicious login behavior and reduce security risk exposure  
+  - Implemented real-time alerting for faster incident response  
 
 - [AI Data Analysis Project](https://github.com/oj9o/ai-data-analysis-project)  
-  - Performs data analysis and visualization using Python to support data-driven decision-making  
+  - Developed Python-based data analysis and visualization workflows  
+  - Generated insights to support data-driven decision-making  
 
 ## 🎯 Focus Areas
+- Computer Vision for Safety Systems  
+- AI Risk Intelligence  
 - Cybersecurity Analytics  
-- Risk Detection Systems  
-- AI-driven Decision Systems  
+- Decision-Making AI Systems  
 
 ## 🚀 Skills
 - Python  
@@ -30,6 +42,9 @@ I design and build AI-powered cybersecurity systems focused on risk detection, d
 
 ## ⚡ Tools & Technologies
 - Python  
-- Streamlit  
+- OpenCV  
+- YOLO (Ultralytics)  
 - Pandas  
+- NumPy  
+- Streamlit  
 - Git & GitHub  
