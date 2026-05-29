@@ -87,14 +87,6 @@ I enjoy taking ideas from concept to working prototypes and exploring how AI can
 - Built analytical dashboards and visual reporting tools
 - Generated insights to support data-driven decision-making
 - Demonstrates practical analytics and business intelligence skills
-
-### 📊 AI Data Analysis Project
-
-- Developed Python-based data analysis and visualization workflows
-- Performed data cleaning, transformation, and exploratory data analysis
-- Built interactive visualizations and analytical dashboards
-- Generated insights to support data-driven decision-making
-- Demonstrates practical analytics and business intelligence skills
   
 ## 🎯 Focus Areas
 
