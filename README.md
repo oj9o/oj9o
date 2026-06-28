@@ -78,6 +78,18 @@ I enjoy taking ideas from concept to working prototypes and exploring how AI can
 - Demonstrates practical AI applications in security operations
 
 ---
+### 📊 Insurance Cost Prediction using Machine Learning
+🔗 Link: https://github.com/oj9o/insurance-cost-prediction-machine-learning
+
+* Developed an end-to-end machine learning workflow to predict individual medical insurance charges.
+* Performed exploratory data analysis (EDA), data preparation, and feature engineering on a real-world insurance dataset.
+* Built and compared Linear Regression and Random Forest Regression models to evaluate predictive performance.
+* Assessed model accuracy using MAE, RMSE, and R² performance metrics.
+* Identified smoking, age, and BMI as the most influential factors affecting insurance charges through statistical analysis and feature importance.
+* Demonstrated that Random Forest outperformed Linear Regression, achieving higher prediction accuracy and better overall model performance.
+* Implemented using R, statistical modeling, data visualization, and machine learning techniques.
+
+---
 
 ### 📊 AI Data Analysis Project
 🔗 Link: https://github.com/oj9o/ai-data-analysis-project
