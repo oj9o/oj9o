@@ -79,7 +79,7 @@ I enjoy taking ideas from concept to working prototypes and exploring how AI can
 
 ---
 ### 📊 Insurance Cost Prediction using Machine Learning
-🔗 Link: https://github.com/oj9o/insurance-cost-prediction-machine-learning
+🔗 Link: https://github.com/oj9o/insurance-cost-prediction-ml-comparison 
 
 * Developed an end-to-end machine learning workflow to predict individual medical insurance charges.
 * Performed exploratory data analysis (EDA), data preparation, and feature engineering on a real-world insurance dataset.
